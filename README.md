@@ -16,9 +16,7 @@
 <div> 
  
   <a href="https://www.instagram.com/miguelalct/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fernando.oliveira.10@hotmail.com"><img src="https://img.shields.io/badge/-E--mail-blue" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-miguel-alc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/OliveiraUP/OliveiraUP/blob/output/github-contribution-grid-snake.svg)
+  <a href = "mailto:fernando.oliveira.10@hotmail.com"><img src="https://img.shields.io/badge/-EMAIL-%230077B5?style=for-the-badge&logo=EMAIL&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernando-miguel-alc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
